@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3e646fd79e96f9344a710a2f6e3f941a
+timeCreated: 1489691166
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CameraFadeShader: {fileID: 4800000, guid: 1360b498e005dac4cb0d702c84ddd9c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
